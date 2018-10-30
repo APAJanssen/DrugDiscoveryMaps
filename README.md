@@ -1,2 +1,2 @@
 # Drug Discovery Maps
-Drug Discovery Maps: executable, python implementation and KNIME workflow
+The Drug Discovery Maps (Windows) executable, python implementation and KNIME workflow can be found under their respective Releases on this page.
